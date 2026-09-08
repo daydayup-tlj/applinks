@@ -1,0 +1,6 @@
+{
+  "name": "tljapplinks",
+  "assets": {
+    "directory": "./"
+  }
+}
