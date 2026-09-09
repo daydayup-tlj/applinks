@@ -1,6 +1,6 @@
 {
   "name": "tljapplinks",
   "assets": {
-    "directory": "./allapps"
+    "directory": "./"
   }
 }
